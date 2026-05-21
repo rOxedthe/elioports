@@ -9,6 +9,24 @@ export const navItems = [
 
 export const clientProjects = [
   {
+    title: "R.S. Pharma Link",
+    category: "Client Website",
+    href: "https://rs-pharma-link.pages.dev",
+    image: "/projects/rs-pharma-site.png",
+    description:
+      "A professional corporate website for a pharmaceutical distributor in Kathmandu, built to present the brand with credibility and clearly communicate distribution services to pharmacies, clinics, and hospitals across Nepal.",
+    highlights: ["Corporate website", "Pharmaceutical sector", "Nepal-based client"]
+  },
+  {
+    title: "Yogmandu",
+    category: "Client Website",
+    href: "https://yogmandu-website.pages.dev",
+    image: "/projects/yogmandu-site.png",
+    description:
+      "A yoga education and wellness studio website for a Yoga Alliance-registered center in Kathmandu, designed to present teacher training programs and sound healing courses with authenticity and trust.",
+    highlights: ["Wellness & education", "Yoga Alliance certified", "Nepal-based client"]
+  },
+  {
     title: "Globalingo",
     category: "Client Website",
     href: "https://fa70d15a.globalingo.pages.dev",
