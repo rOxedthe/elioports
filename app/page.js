@@ -83,7 +83,7 @@ export default function Home() {
           <h2>Client work that connects websites, search, and business goals.</h2>
         </div>
         <div className="project-grid">
-          {clientProjects.slice(0, 3).map((project) => (
+          {clientProjects.map((project) => (
             <article className="project-card" key={project.title}>
               <div className="project-preview">
                 <Image
@@ -162,7 +162,7 @@ export default function Home() {
           <h2>GitHub work, internal tools, and systems experiments.</h2>
         </div>
         <div className="mini-grid">
-          {personalProjects.slice(0, 3).map((project) => (
+          {personalProjects.map((project) => (
             <article className="mini-card" key={project.title}>
               <h3>{project.title}</h3>
               <p>{project.description}</p>
