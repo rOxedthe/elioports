@@ -11,11 +11,20 @@ export const clientProjects = [
   {
     title: "R.S. Pharma Link",
     category: "Client Website",
-    href: "https://rs-pharma-link.pages.dev",
+    href: "https://729874b5.rs-pharma-link.pages.dev",
     image: "/projects/rs-pharma-site.png",
     description:
       "A professional corporate website for a pharmaceutical distributor in Kathmandu, built to present the brand with credibility and clearly communicate distribution services to pharmacies, clinics, and hospitals across Nepal.",
     highlights: ["Corporate website", "Pharmaceutical sector", "Nepal-based client"]
+  },
+  {
+    title: "Nepal Trek Agency",
+    category: "Client Website",
+    href: "https://nepal-trek-agency.eliofattal05.workers.dev",
+    image: "/projects/nepal-trek-site.png",
+    description:
+      "A high-impact tourism website for a Kathmandu-based trekking agency, designed to guide adventure travellers through Himalayan expedition packages and convert visits into bookings.",
+    highlights: ["Tourism & adventure", "Himalayan expeditions", "Nepal-based client"]
   },
   {
     title: "Yogmandu",
